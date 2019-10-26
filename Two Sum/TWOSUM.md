@@ -1,7 +1,4 @@
-# LeetCode
-
->
-> **Two Sum:**\
+# Two Sum
 > [TwoSum](https://leetcode.com/problems/two-sum/)\\
 
 > **Developed by:**\
